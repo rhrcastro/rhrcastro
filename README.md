@@ -15,5 +15,3 @@
 ## Interesses
 > Tenho vasto interesse na área de segurança, especificamente na área de segurança ofensiva (testes de invasão), já na área de desenvolvimento, apenas interesse em desenvolvimento back-end ou full stack mobile.
 
-## Status
-<p align="center><img src="https://github-readme-stats.vercel.app/api?username=rhrcastro&show_icons=true" alt="rhrcastro"/></p>
