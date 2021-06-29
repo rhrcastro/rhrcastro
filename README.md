@@ -1,5 +1,5 @@
 # Ricardo Henrique Rodrigues de Castro
-> Técnico em Redes de Computadores pela ETE Miguel Batista, atualmente cursando sétimo período em Sistemas de Informação na UFRPE.
+> Técnico em Redes de Computadores pela ETE Miguel Batista, atualmente cursando o oitavo período em Sistemas de Informação na UFRPE.
 
 ## Habilidades
 - Java
